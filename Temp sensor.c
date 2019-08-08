@@ -3,7 +3,7 @@
    --gives average of 1000 collected data
   using 10 bit ADC 
   Temperature Sensor Used LM35
-/*
+*/
 
 #include <18F4455.h>
 #device ADC=10     //10-bit ADC (0-1023 for 0-5 volts)
