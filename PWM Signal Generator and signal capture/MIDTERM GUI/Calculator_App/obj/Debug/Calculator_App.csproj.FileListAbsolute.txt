@@ -1,0 +1,45 @@
+D:\git\Tutorial\Calculator_App\Calculator_App\bin\Debug\Calculator_App.exe.config
+D:\git\Tutorial\Calculator_App\Calculator_App\obj\Debug\Calculator_App.csprojResolveAssemblyReference.cache
+D:\git\Tutorial\Calculator_App\Calculator_App\obj\Debug\Calculator_App.Properties.Resources.resources
+D:\git\Tutorial\Calculator_App\Calculator_App\obj\Debug\Calculator_App.csproj.GenerateResource.Cache
+D:\git\Tutorial\Calculator_App\Calculator_App\bin\Debug\Calculator_App.exe
+D:\git\Tutorial\Calculator_App\Calculator_App\bin\Debug\Calculator_App.pdb
+D:\git\Tutorial\Calculator_App\Calculator_App\obj\Debug\Calculator_App.FormMain.resources
+D:\git\Tutorial\Calculator_App\Calculator_App\obj\Debug\Calculator_App.exe
+D:\git\Tutorial\Calculator_App\Calculator_App\obj\Debug\Calculator_App.pdb
+X:\ECC 422\Calculator_App\Calculator_App\bin\Debug\Calculator_App.exe.config
+X:\ECC 422\Calculator_App\Calculator_App\obj\Debug\Calculator_App.exe
+X:\ECC 422\Calculator_App\Calculator_App\obj\Debug\Calculator_App.pdb
+X:\ECC 422\Calculator_App\Calculator_App\bin\Debug\Calculator_App.exe
+X:\ECC 422\Calculator_App\Calculator_App\bin\Debug\Calculator_App.pdb
+X:\ECC 422\Calculator_App\Calculator_App\obj\Debug\Calculator_App.csprojResolveAssemblyReference.cache
+X:\ECC 422\Calculator_App\Calculator_App\obj\Debug\Calculator_App.FormMain.resources
+X:\ECC 422\Calculator_App\Calculator_App\obj\Debug\Calculator_App.Properties.Resources.resources
+X:\ECC 422\Calculator_App\Calculator_App\obj\Debug\Calculator_App.csproj.GenerateResource.Cache
+X:\ECC 422\Calculator_App - Copy\Calculator_App\bin\Debug\Calculator_App.exe.config
+X:\ECC 422\Calculator_App - Copy\Calculator_App\obj\Debug\Calculator_App.exe
+X:\ECC 422\Calculator_App - Copy\Calculator_App\obj\Debug\Calculator_App.pdb
+X:\ECC 422\Calculator_App - Copy\Calculator_App\bin\Debug\Calculator_App.exe
+X:\ECC 422\Calculator_App - Copy\Calculator_App\bin\Debug\Calculator_App.pdb
+X:\ECC 422\Calculator_App - Copy\Calculator_App\obj\Debug\Calculator_App.csprojResolveAssemblyReference.cache
+X:\ECC 422\Calculator_App - Copy\Calculator_App\obj\Debug\Calculator_App.FormMain.resources
+X:\ECC 422\Calculator_App - Copy\Calculator_App\obj\Debug\Calculator_App.Properties.Resources.resources
+X:\ECC 422\Calculator_App - Copy\Calculator_App\obj\Debug\Calculator_App.csproj.GenerateResource.Cache
+X:\ECC 422\Project\p1\project gui\Calculator_App - Copy\Calculator_App\bin\Debug\Calculator_App.exe.config
+X:\ECC 422\Project\p1\project gui\Calculator_App - Copy\Calculator_App\obj\Debug\Calculator_App.exe
+X:\ECC 422\Project\p1\project gui\Calculator_App - Copy\Calculator_App\obj\Debug\Calculator_App.pdb
+X:\ECC 422\Project\p1\project gui\Calculator_App - Copy\Calculator_App\bin\Debug\Calculator_App.exe
+X:\ECC 422\Project\p1\project gui\Calculator_App - Copy\Calculator_App\bin\Debug\Calculator_App.pdb
+X:\ECC 422\Project\p1\project gui\Calculator_App - Copy\Calculator_App\obj\Debug\Calculator_App.csprojResolveAssemblyReference.cache
+X:\ECC 422\Project\p1\project gui\Calculator_App - Copy\Calculator_App\obj\Debug\Calculator_App.FormMain.resources
+X:\ECC 422\Project\p1\project gui\Calculator_App - Copy\Calculator_App\obj\Debug\Calculator_App.Properties.Resources.resources
+X:\ECC 422\Project\p1\project gui\Calculator_App - Copy\Calculator_App\obj\Debug\Calculator_App.csproj.GenerateResource.Cache
+X:\ECC 422\MIDTERM GUI\Calculator_App\bin\Debug\Calculator_App.exe.config
+X:\ECC 422\MIDTERM GUI\Calculator_App\obj\Debug\Calculator_App.exe
+X:\ECC 422\MIDTERM GUI\Calculator_App\obj\Debug\Calculator_App.pdb
+X:\ECC 422\MIDTERM GUI\Calculator_App\bin\Debug\Calculator_App.exe
+X:\ECC 422\MIDTERM GUI\Calculator_App\bin\Debug\Calculator_App.pdb
+X:\ECC 422\MIDTERM GUI\Calculator_App\obj\Debug\Calculator_App.csprojResolveAssemblyReference.cache
+X:\ECC 422\MIDTERM GUI\Calculator_App\obj\Debug\Calculator_App.FormMain.resources
+X:\ECC 422\MIDTERM GUI\Calculator_App\obj\Debug\Calculator_App.Properties.Resources.resources
+X:\ECC 422\MIDTERM GUI\Calculator_App\obj\Debug\Calculator_App.csproj.GenerateResource.Cache
